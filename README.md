@@ -30,7 +30,7 @@ Prior to running the experiments, make sure to install the following required li
 * The neural networks are implementd in ```client.py```
 * To reproduce this experiment:
   * MNIST
-    * IID, uniform, and 90% federated: epoch = 1; batch_size = 32; step_per_epoch = 0 (uses the tensorflow default)
+    * IID, uniform, and 90% federated: epoch = 1; batch_size = 32; step_per_epoch = 0 (uses tensorflow default)
     * 100% federated: epoch = 1; batch_size = 32; steps_per_epoch = 10
   * CIFAR-10
     * IID: epoch = 1; batch_size = 32; step_per_epoch = 0
