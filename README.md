@@ -1,4 +1,4 @@
-# How does data distribution influences results in Federated Learning?
+# How does data distribution influence results in Federated Learning?
 
 I was trying to replicate the experiment shown [here](https://mike.place/talks/fl/) about data distribution in Federated Learning. 
 
