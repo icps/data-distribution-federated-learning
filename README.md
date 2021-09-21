@@ -26,7 +26,7 @@ Prior to running the experiments, make sure to install the following required li
 ### Project Structure and tips
 
 * To run, change the values in ```variables.py``` and run ```federated-learning.py```
-* The results are in ```plots.ipynb```. It plots from the folder ```{DATASET}_tests/```. We automatically saved the results in this folder.
+* The results are in ```plots.ipynb```. It plots from the folder ```{DATASET}_tests/```. We automatically save the results in this folder.
 * The neural networks are implementd in ```client.py```
 * To reproduce this experiment:
   * MNIST
