@@ -8,7 +8,9 @@ Using MNIST dataset and 10 clients, we have four scenarios:
 3. **90% federated:** each client contains 90% of one single class and 10% of others;
 4. **100% federated:** each client contains only one class.
 
-I did the same experiment do CIFAR-10, which contains more complex data than MNIST.
+I did the same experiment do CIFAR-10, which contains more complex data than MNIST. 
+
+I based the implementation on this [example](https://github.com/adap/flower/tree/main/examples/simulation).
 
 ## About the code
 
